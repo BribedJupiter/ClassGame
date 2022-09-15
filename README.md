@@ -16,14 +16,11 @@ If you want to pull the most recent version from YOUR repo, type in git pull git
 If you want to pull from the main repo to make sure that yours is up to date, go onto GitHub, find your personal fork, and there should be a button where you can sync your progress
 
 How do I push my most recent commit up to GitHub?
-    Go to your terminal, navigate to the folder the project is stored under, 
-    type 
+    Go to your terminal, navigate to the folder the project is stored under, type 
 > git add * 
-    This ^ allows you to add all files into your commit
-    type 
+This ^ allows you to add all files into your commit Now type 
 > git commit -m"This is where your message will go"
-    This ^ allows you to name your commit. This helps me to determine whether I want to accept or deny your commit
-    type 
+This ^ allows you to name your commit. This helps me to determine whether I want to accept or deny your commit. Now type 
 > git push git@github.com:(username)/(name_of_repo)
 
 How do I generate an SSH key so that I can push up to github uninhibited?
