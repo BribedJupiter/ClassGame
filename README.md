@@ -18,8 +18,10 @@ If you want to pull from the main repo to make sure that yours is up to date, go
 How do I push my most recent commit up to GitHub?
     Go to your terminal, navigate to the folder the project is stored under, type 
 > git add * 
+
 This ^ allows you to add all files into your commit Now type 
 > git commit -m"This is where your message will go"
+
 This ^ allows you to name your commit. This helps me to determine whether I want to accept or deny your commit. Now type 
 > git push git@github.com:(username)/(name_of_repo)
 
