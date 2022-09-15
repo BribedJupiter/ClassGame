@@ -12,7 +12,9 @@ How do I initially clone the github respository?
 How do I make sure I'm on the most recent version?
     This one is a little bit different. Remember - your repo might be running on a different version than the main repo.
 
-If you want to pull the most recent version from YOUR repo, type in git pull git@github.com:(username)/(name_of_repo)
+If you want to pull the most recent version from YOUR repo, type in 
+> git pull git@github.com:(username)/(name_of_repo)
+
 If you want to pull from the main repo to make sure that yours is up to date, go onto GitHub, find your personal fork, and there should be a button where you can sync your progress
 
 How do I push my most recent commit up to GitHub?
