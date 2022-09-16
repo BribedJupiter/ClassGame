@@ -32,3 +32,15 @@ How do I generate an SSH key so that I can push up to github uninhibited?
     https://jdblischak.github.io/2014-09-18-chicago/novice/git/05-sshkeys.html
 
 Feel free to reach out if needed! I'm always here to help <3
+
+
+Some things that we will want to add...
+    Camera that is able to move up and down
+    Images that are in the background
+    Physics that continuously propel the Jayhawk forward
+    Randomness in the obstacles and their sizes
+    Counter that counts the amount of flaps 
+    Counter that counts the amount of objectives past
+    Resizable screen
+    Working Tick system
+    
