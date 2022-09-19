@@ -52,3 +52,7 @@ Some things that we will want to add...
 
 
 If you're bored and want something new to explore, I would recommend testing to see if nodemon works for you! It can be super helpful for running something where you don't have to start and stop with every save.
+
+Here's the script for if you want to run nodemon while editing the code.
+
+> nodemon --exec python3 main.py
