@@ -49,3 +49,6 @@ Some things that we will want to add...
     - Resizable screen
     - Working Tick system
 
+
+
+If you're bored and want something new to explore, I would recommend testing to see if nodemon works for you! It can be super helpful for running something where you don't have to start and stop with every save.

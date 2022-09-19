@@ -3,12 +3,12 @@
 # if anyone has any ideas, let me know! I'd love to help <3 so cute love the heart baby girl this is adorable
 # wassup big D
 
-print("hello world!")
+import pygame
+# lets import the start_world_gen function from world
+from world import start_world_gen
 
-daniel = False
-while(not daniel):
-    answer = input("Press q if you want to quit ")
-    if(answer=='q' or answer=='Q'):
-        daniel = True
+# We have cleared out the main function - this is how you want big projects to be. Now, it's compartmentalized
+start_world_gen()
+
 
 
